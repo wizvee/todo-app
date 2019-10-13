@@ -14,3 +14,7 @@ Todo App을 만들며 react에 대해 공부해보자!
 ## 스스로 해보기
 
 - [x] 팔레트 기능: 팔레트 컴포넌트를 추가하고 선택한 색상으로 일정 추가, 선택한 색상일 경우 border 추가
+
+## 완성 페이지
+
+<https://wizvee.github.io/todo-app/>
