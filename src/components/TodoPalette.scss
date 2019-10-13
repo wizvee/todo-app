@@ -1,0 +1,23 @@
+.TodoPalette {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5rem;
+    background: #495057;
+}
+
+.color {
+    width: 2rem;
+    height: 2rem;
+    box-sizing: border-box;
+    cursor: pointer;
+
+    &.checked,
+    &:hover {
+        border: 2px solid white;
+    }
+
+    &+& {
+        margin-left: 0.5rem;
+    }
+}
